@@ -1,6 +1,6 @@
 import { createGames } from "../controller/controller-games-destaques.js";
 
-const url = "http://localhost:3000/games"
+const url = "https://github.com/JuliioCesar/Projeto-portfolio-game-home/blob/master/dados/games-destaque.json"
 
 async function getAllPost() {
     const response = await fetch(url)

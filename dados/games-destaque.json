@@ -1,0 +1,52 @@
+{
+  "games": [
+    {
+      "nomeJogo": "The Legend of Zelda: Breath of the Wild",
+      "dataLançamento": "03/03/2017",
+      "capa": "https://interfaceingame.com/wp-content/uploads/the-legend-of-zelda-breath-of-the-wild/the-legend-of-zelda-breath-of-the-wild-cover-375x500.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "nomeJogo": "Genshin Impact Mobile",
+      "dataLançamento": "28/09/2020",
+      "capa": "https://interfaceingame.com/wp-content/uploads/genshin-impact-mobile/genshin-impact-mobile-cover-375x500.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "nomeJogo": "League of Legends: Wild Rift",
+      "dataLançamento": "10/12/2020",
+      "capa": "https://interfaceingame.com/wp-content/uploads/league-of-legends-wild-rift/league-of-legends-wild-rift-cover-375x500.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "nomeJogo": "The Witcher 3: Wild Hunt",
+      "dataLançamento": "18/05/2015",
+      "capa": "https://interfaceingame.com/wp-content/uploads/the-witcher-3-wild-hunt/the-witcher-3-wild-hunt-cover-375x500.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "nomeJogo": "God of War",
+      "dataLançamento": "20/04/2018",
+      "capa": "https://interfaceingame.com/wp-content/uploads/god-of-war/god-of-war-cover-375x500.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },  
+    {
+      "nomeJogo": "Elde Ring",
+      "dataLançamento": "25/02/2022",
+      "capa": "https://interfaceingame.com/wp-content/uploads/elden-ring/elden-ring-cover-375x500.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "nomeJogo": "Marvel’s Spider-Man",
+      "dataLançamento": "07/09/2018",
+      "capa": "https://interfaceingame.com/wp-content/uploads/marvels-spider-man/marvels-spider-man-cover-375x500.png",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "nomeJogo": "It Takes Two",
+      "dataLançamento": "26/03/2021",
+      "capa": "https://interfaceingame.com/wp-content/uploads/it-takes-two/it-takes-two-cover-375x500.png",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ]
+}
